@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apt_locator_api.props" />
+</Project>

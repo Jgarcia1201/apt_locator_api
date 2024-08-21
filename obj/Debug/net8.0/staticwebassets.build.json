@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lqwz/JVw8UT0m2u7TWSuIc1UeQpcKU4VT34GBAyTApI=",
+  "Source": "apt_locator_api",
+  "BasePath": "_content/apt_locator_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
